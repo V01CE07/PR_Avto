@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR1_Drozdov(Avto)", "PR1_Drozdov(Avto).csproj", "{442F6618-4924-4C86-8792-75A1B3C90862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442F6618-4924-4C86-8792-75A1B3C90862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442F6618-4924-4C86-8792-75A1B3C90862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442F6618-4924-4C86-8792-75A1B3C90862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442F6618-4924-4C86-8792-75A1B3C90862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E61F44-4D3E-4EBA-B750-B0BF01B96F81}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\bin\Debug\net6.0\PR1_Drozdov(Avto).exe
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\bin\Debug\net6.0\PR1_Drozdov(Avto).deps.json
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\bin\Debug\net6.0\PR1_Drozdov(Avto).runtimeconfig.json
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\bin\Debug\net6.0\PR1_Drozdov(Avto).dll
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\bin\Debug\net6.0\PR1_Drozdov(Avto).pdb
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\PR1_Drozdov(Avto).csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\PR1_Drozdov(Avto).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\PR1_Drozdov(Avto).AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\PR1_Drozdov(Avto).AssemblyInfo.cs
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\PR1_Drozdov(Avto).csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\PR1_Drozdov(Avto).dll
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\refint\PR1_Drozdov(Avto).dll
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\PR1_Drozdov(Avto).pdb
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\PR1_Drozdov(Avto).genruntimeconfig.cache
+C:\Users\prdb\Desktop\PR1_Drozdov(Avto)\obj\Debug\net6.0\ref\PR1_Drozdov(Avto).dll
